@@ -6,7 +6,7 @@
     <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
         <title>AnomePortfolio</title>
     <script src"=./scripts.js"> </script>
-    <link> rel="stylesheet" href=    
+    <link> rel="stylesheet" href="css/general.css">   
 </head>
 
 <body>
@@ -18,7 +18,7 @@
 
 
 
- 
+
  </main>
 </body>
 
